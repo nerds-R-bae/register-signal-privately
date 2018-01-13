@@ -1,29 +1,29 @@
 # register-signal-privately
 
-@nutpantz
+
 COOKBOOK GUIDE:
 
-    Setting up Signal without using your number
-    (and getting more people to use Signal).
+Setting up Signal without using your number
+(and getting more people to use Signal).
 
 #For threats of domestic agency interference:
 Prep:
 
-    Use Linux ...or Mac.
-    Change your MAC address. Prevent ipv6 and webRTC in settings.
-    Use a VPN that does not leak DNS. Test at dnsleaktest.com, use the full test. Set the VPN to obfuscate. This means the connection to the VPN will not have a header telling your ISP and any state snoopers you are connecting to the ip address of a vpn, and trying to be sneaky.
+Use Linux ...or Mac.
+Change your MAC address. Prevent ipv6 and webRTC in settings.
+Use a VPN that does not leak DNS. Test at dnsleaktest.com, use the full test. Set the VPN to obfuscate. This means the connection to the VPN will not have a header telling your ISP and any state snoopers you are connecting to the ip address of a vpn, and trying to be sneaky.
 
 Method:
 
-    Download Bluestacks, and set it aside without setting it up. Bluestacks is a sandbox android emulator.
-    Download via the browser method a copy of TextPlus.apk (or equivalent). Do not sign in. Google has reasonable secure encryption, so it is best to download it from there. Playstore will verify the .apk.
-    Download Bitdefender trial, and use it to scan. Bitdefender is very good at inspecting files for trojan droppers.
-    Run Bluestacks, and refuse installing or setting up Google Playstore.
-    Run Textplus from within Blustacks, make sure you use a throwaway email address service.
-    You will be given a free, no credit card USA phone number, and you can select the state/location furthest from you; if you are stateside. Some sister apps within the TextPlus Company stable of apps allow you to select UK, Australian, or Canadian numbers, so check them out before selecting your .apk. They are generally all from the same company, but with different offers.
-    Load the number into Signal on an ios device or via Signal Web version, bon appetit.
-    If someone else had been issued that number before you, and registered the number with Signal, just try to switch your TextPlus number; or use a different app to obtain another number.
-    Scrub your disks of the .apk and Bluestacks.
+Download Bluestacks, and set it aside without setting it up. Bluestacks is a sandbox android emulator.
+Download via the browser method a copy of TextPlus.apk (or equivalent). Do not sign in. Google has reasonable secure encryption, so it is best to download it from there. Playstore will verify the .apk.
+Download Bitdefender trial, and use it to scan. Bitdefender is very good at inspecting files for trojan droppers.
+Run Bluestacks, and refuse installing or setting up Google Playstore.
+Run Textplus from within Blustacks, make sure you use a throwaway email address service.
+You will be given a free, no credit card USA phone number, and you can select the state/location furthest from you; if you are stateside. Some sister apps within the TextPlus Company stable of apps allow you to select UK, Australian, or Canadian numbers, so check them out before selecting your .apk. They are generally all from the same company, but with different offers.
+Load the number into Signal on an ios device or via Signal Web version, bon appetit.
+If someone else had been issued that number before you, and registered the number with Signal, just try to switch your TextPlus number; or use a different app to obtain another number.
+Scrub your disks of the .apk and Bluestacks.
 
 For International Agency and Well Funded State Threats
 
@@ -54,6 +54,10 @@ Buy a dark phone already set up from the father of PGP, Phil Zimmerman, and his 
 Try the app compared to Signal, it may be easier to set up.
 @nerds-R-bae
 nerds-R-bae commented an hour ago
+
+
+
+Comments on email in life threatening situations:
 
 If you use a PGP email, use a very rare provider that strips the unencrypted header off the email.
 
