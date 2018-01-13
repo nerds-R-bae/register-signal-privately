@@ -1,13 +1,16 @@
 # register-signal-privately
 
 
-COOKBOOK GUIDE:
+# COOKBOOK GUIDE:
 
-Setting up Signal without using your number
+**Setting up Signal without using your number
 (and getting more people to use Signal).
 
-#For threats of domestic agency interference:
-Prep:
+
+**For threats of domestic agency interference:
+
+
+**Prep:
 
 1.  Use Linux ...or Mac.
 
@@ -16,7 +19,7 @@ Prep:
 3.  Use a VPN that does not leak DNS. Test at dnsleaktest.com, use the full test. Set the VPN to obfuscate. This means the connection to the VPN will not have a header telling your ISP and any state snoopers you are connecting to the ip address of a vpn exactly.
 
 
-Method:
+**Method:
 
 4.  Download Bluestacks, and set it aside without setting it up. Bluestacks is a sandbox android emulator.
 
@@ -35,7 +38,7 @@ You will be given a free, no credit card USA phone number, and you can select th
 11. Scrub your disks of the .apk and Bluestacks.
 
 
-##For International Agency and Well Funded State Threats
+# For International Agency and Well Funded State Threats
 
 In addition to the above:
 
@@ -82,7 +85,7 @@ Try the app compared to Signal, it may be easier to set up.
 
 
 
-**Comments on email in life threatening situations:
+# Comments on email in life threatening situations / for the technically minded:
 
 If you use a PGP email, use a very rare provider that strips the unencrypted header off the email.
 
