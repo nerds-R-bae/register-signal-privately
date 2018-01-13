@@ -116,3 +116,7 @@ The header is the dead give away. Thats why Obama assured the public he only eve
 Google and freemail are great consumer free items that can allow consumers to maximise the amount of unsolicited ecommerce opportnities sent to them. The level of tracking with email trackers, stickylinks, beacon pixels and so forth sent to your email inbox, and with the providers raking up all the key words, well, they have all the words and hand them to our governments to share out.
 
 For the technically pure, I would use PGP emails, from a clean account and tightly managed server and sparingly as long as metadata was stripped... and Signal & Silent Circle if a life rightly depends on it.
+
+
+
+# A WORD FOR THE WISE: Edward Snowden escalated techs to rockstar status
